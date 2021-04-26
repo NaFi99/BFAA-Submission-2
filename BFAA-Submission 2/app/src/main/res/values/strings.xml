@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Github</string>
+    <string name="search">Search</string>
+    <string name="setting"> Setting</string>
+    <string name="search_hint">Username</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+
+    <string name="tab2">Followers</string>
+    <string name="tab3">Following</string>
+
+</resources>
